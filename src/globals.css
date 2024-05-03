@@ -1,0 +1,22 @@
+
+.hero{
+    background-image: url('./assets/Rectangle2.png');
+    color:white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.pink{
+  background-image: url('./assets/pinkbtn.png');
+}
+*{
+  margin:0;
+  padding:0
+}
+.signup,.login{
+  position: fixed;
+  bottom:0;
+  display: hidden;
+}
+.sonu{
+  background-image: url('./assets/Screenshot\ 2024-05-04\ 035833.png');
+}
